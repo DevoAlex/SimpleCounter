@@ -54,9 +54,9 @@ button:active{
 }
 
 /* Media queries */
-@media (max-width: 992px){
-    
-}
+
+/* @media (max-width: 992px){} */
+
 @media (max-width: 768px){
     .main{
         height: 450px;
