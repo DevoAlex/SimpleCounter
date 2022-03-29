@@ -7,4 +7,4 @@ You can also increase the value by pressing right or up keys or by scrolling up 
 
 Other ways to decrease the value are by pressing down or left keys or by scrolling down your mouse wheel.
 
-<img src="/assets/Images/counter.png" width="150" height="150">
+<img src="/assets/Images/counter.png" width="400" height="400">
