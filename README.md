@@ -7,4 +7,4 @@ You can also increase the value by pressing right or up keys or by scrolling up 
 
 Other ways to decrease the value are by pressing down or left keys or by scrolling down your mouse wheel.
 
-![Screenshot](/assets/Images/counter.png)
+![Screenshot](/assets/Images/counter.png = 300x300)
